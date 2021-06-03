@@ -8,6 +8,7 @@ public class Test {
 
 		System.out.println("projet TP_GIT Version 4");
 		System.out.println("projet TP_GIT Version 5");
+		System.out.println("projet TP_GIT Version 6");
 	}
 
 }
